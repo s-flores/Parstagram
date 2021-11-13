@@ -1,13 +1,13 @@
-# Project 3 - Parstagram
+# Parstagram
 
-Parstagram is a photo sharing app similar to Instagram but using Parse as its backend.
+Parstagram is a photo sharing app similar to Instagram, but using Parse as its backend.
 
 
 ## User Stories
 
 - [X] User can view the last 20 posts submitted to "Instagram".
 - [X] User can pull to refresh the last 20 posts submitted to "Instagram".
-- [x] The user should switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] The user should switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 
 ## Video Walkthrough
 
